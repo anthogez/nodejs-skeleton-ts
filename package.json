@@ -30,5 +30,15 @@
 		"ts-jest": "^24.0.2",
 		"ts-node-dev": "^1.0.0-pre.42",
 		"typescript": "^3.6.3"
+	},
+	"overrides": {
+		"fast-redact": "3.5.0",
+		"yargs-parser": "22.0.0",
+		"braces": "3.0.3",
+		"micromatch": "4.0.8",
+		"got": "14.6.3",
+		"node-notifier": "10.0.1",
+		"cross-spawn": "7.0.6",
+		"tough-cookie": "6.0.0"
 	}
 }
